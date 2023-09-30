@@ -1,1 +1,3 @@
-master1
+new_branch_1
+new_branch_2
+
