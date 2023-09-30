@@ -1,7 +1,7 @@
 not okay :false
 all true
-tw: true
-insta: false
+tw: false
+insta: true
 all false
 okay: trye
 
