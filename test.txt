@@ -1,11 +1,5 @@
 new_branch_1
 new_branch_2
 master
-<<<<<<< HEAD
-maste
-master
-
->>>>>>> add master
-
 maste
 gg
