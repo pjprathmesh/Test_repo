@@ -1,5 +1,2 @@
-new_branch_1
-new_branch_2
 master
-maste
-gg
+
