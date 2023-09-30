@@ -1,9 +1,6 @@
-not okay :false
-all true
-tw: false
-insta: true
-all false
-okay: trye
+1
+2
+3
 
 
 
