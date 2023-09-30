@@ -1,6 +1,10 @@
-bL
-b2
-b33
+not okay :false
+all true
+tw: true
+insta: false
+all false
+okay: trye
+
 
 
 
